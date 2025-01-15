@@ -37,5 +37,5 @@ docker build .
 
 3 - Inicialize o container
 ```
-@docker run -it -e PORT=8000
+docker run -it -e PORT=8000
 ```
