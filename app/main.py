@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.api import cep, ddd, cnpj, feriados, domain
+from app.endpoint import cep, ddd, cnpj, feriados, domain
 
 app = FastAPI()
 
