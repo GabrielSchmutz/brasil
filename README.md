@@ -13,7 +13,7 @@ cd brasil
 2 - Crie um ambiente virtual usando o [Pyenv](https://github.com/pyenv/pyenv)
 ```
 pyenv virtualenv 3.12.5 brasil
-pyenv global brazil
+pyenv global brasil
 ```
 
 3 - Instale as dependências e rode o projeto
