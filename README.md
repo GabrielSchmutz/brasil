@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação Python que utiliza a [BrasilAPI](https://brasilapi.com.br) para oferecer serviços de consulta de informações como **CEP**, **DDD**, **CNPJ**, e **Feriados**.
 
-## Instalação e dependências**
+## Instalação e dependências
 
 1 - Clone o repositório
 ```
