@@ -1,5 +1,5 @@
 from fastapi import APIRouter 
-from app.services.brasilapi import *
+from app.services.brasil import *
 
 router = APIRouter()
 
