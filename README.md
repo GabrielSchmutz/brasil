@@ -22,3 +22,5 @@ pyenv global brazil
 pip install requirements.txt -r
 uvicorn app.main:app --reload
 ```
+4 - Acesse o painel
+Abra seu navegador e vá até o endereço ``http://127.0.0.1:8000/docs``
